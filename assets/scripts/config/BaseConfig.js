@@ -1,4 +1,4 @@
-export class BaseConfig {
+module.export = class BaseConfig {
     constructor() {
 
     }

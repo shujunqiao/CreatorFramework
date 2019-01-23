@@ -1,4 +1,4 @@
-export class BaseConfig {
+export class BaseManager {
     constructor() {
 
     }
