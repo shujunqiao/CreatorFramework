@@ -1,4 +1,4 @@
-import { ManagerGroup } from './ManagerGroup'
+import { ManagerInstance } from './ManagerInstance'
 
 window.fq = {}
-fq.mgrGroup = new ManagerGroup()
+fq.mgrGroup = new ManagerInstance()
